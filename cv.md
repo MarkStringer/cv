@@ -28,7 +28,6 @@ Responsible for producing and executing an Agile coaching and transformation str
 Lead a programme of Agile transformation.  Responsible for the coaching of four teams in the application of Agile, from project kick-off to final delivery.  This included coaching on the introduction and implementation of a TDD and CI strategy for development teams. Also responsible for restructuring the PMO function to work with Agile development teams.
 ### Fry-IT Ltd (Nov '11 – Feb '12)  
 Scrum Master:  Responsible for running all Agile aspects of software development for a team distributed across Europe.  
-Project Management Consultant: Worked with the directors of Fry-IT to produce a scalable structure for software development. Managed Relationships with 3rd Party Stakeholders, including Oxford University Medical School.
 ### John Wiley and Sons Ltd, Online Library (Dec '09 – Oct '11) 
 Contract renewed 3 times
 Scrum Master and Project Manager: Delivered a $30m project which represented a possible $500m annual turnover for the company.  Delivered against an aggressive timescale within a rigid 1 month window of opportunity for release in September 2010.
