@@ -35,9 +35,9 @@ Responsible for running 6 agile development teams, running Agile process meeting
 Day-to-day management of software development by 30 developers; reporting on project progress to senior management and planning releases of future work.  Development was in a Java environment using pair programming, TDD and CI all project management was done using JIRA.
 ### Agile Lab (Jun '07 – Dec '09) Own Company
 Agile Project Management Consultant: Developed training materials for Agile Project Management courses and coached new Agile teams.  Clients included:
-#### Lawton Communications Group
+##### Lawton Communications Group
 I worked with the team at LCG to introduce a series of advanced agile practices, include the planning of future iterations in terms of previously measured velocity. 
-#### Nixon McInnes
+##### Nixon McInnes
 Worked to improve Agile methods through initial story extraction meetings; development iterations and successful re-negotiations of scope.
 ### University of Sussex (Feb '05 - Jun '07)
 Applications Researcher and Software Development Project Manager: Managed the delivery of working software on a strict timescale that was fit for purpose and ready to be deployed in private homes as part of a research study. 
