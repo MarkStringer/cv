@@ -11,10 +11,10 @@ I conduct in-house and delegate training sessions on Agile project management. I
 Agile coaching, Certified Scrum Master, Kanban, Java software development, Test Driven Development(TDD), Continuous Integration (Git, GitHub, JUnit, Jenkins, Bamboo, BDD, Cucumber, Gherkin) working with on-shore, off-shore and distributed development teams.
 ## EMPLOYMENT
 ### SopraSteria Ltd (Jan '14 – present)
-##### Agile Coach/Scrum Master - giffgaff (Jan '16 to present)
+#### Agile Coach/Scrum Master - giffgaff (Jan '16 to present)
 Acting as Scrum Master to a team and providing coaching at executive level on the best use of an Agile approach to deliver the organisation's business goals.
 ##### Phones Marketplace (Jan '16 – May '16)
-Delivered used phones e-commerce site in three months
+Delivered the e-commerce site for second-hand phones in three months
 ##### giffgaff money (Jun '16 – present) 
 Delivery of personal loans site and Free Credit Report site.
 #### Agile Coach/Bid Author (October '15 - December '15)
