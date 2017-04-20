@@ -15,7 +15,7 @@ Agile coaching, Certified Scrum Master, Kanban, Java software development, Test 
 Acting as Scrum Master to a team and providing coaching at executive level on the best use of an Agile approach to deliver the organisation's business goals.
 ##### Phones Marketplace (Jan '16 – May '16)
 Delivered the e-commerce site for second-hand phones in three months
-##### giffgaff money (Jun '16 – present) 
+##### giffgaff Money (Jun '16 – present) 
 Delivery of personal loans site and Free Credit Report site.
 #### Agile Coach/Bid Author (Oct '15 - Dec '15)
 Providing Agile coaching and authorship on a series of successful Government bids under the Digital Services and GCloud7 Frameworks.
