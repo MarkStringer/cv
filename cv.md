@@ -58,6 +58,6 @@ Project Manager: First encounter with Agile. Lead the project for an internet ba
 * SCJP (Sun Certified Java Programmer)
 * UK Driving Licence
 ##### Courses Attended
-* Certified SAFE Agilists (Leading Safe)
+* Certified SAFE Agilist (Leading Safe)
 ## Interests
 Stand-up and improvised comedy - currently writing a book about project management and the unconscious: https://medium.com/some-versus-all
