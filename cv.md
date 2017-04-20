@@ -17,14 +17,14 @@ Acting as Scrum Master to a team and providing coaching at executive level on th
 Delivered the e-commerce site for second-hand phones in three months
 ##### giffgaff money (Jun '16 – present) 
 Delivery of personal loans site and Free Credit Report site.
-#### Agile Coach/Bid Author (October '15 - December '15)
+#### Agile Coach/Bid Author (Oct '15 - Dec '15)
 Providing Agile coaching and authorship on a series of successful Government bids under the Digital Services and GCloud7 Frameworks.
 #### Agile Coach/Scrum Master – Ministry of Justice(Feb '15 - Sep '15)
 Agile Coach and Scrum Master on an extremely high profile government project which aims to digitise the criminal justice process.
-### Tata Consulting Services (Feb ;12 – Dec '13)
+### Tata Consulting Services (Feb '12 – Dec '13)
 #### Senior Agile Consultant (Jul '12 –Dec '13) – Lloyds Bank, London
 Responsible for producing and executing an Agile coaching and transformation strategy.  Tailoring an Agile coaching approach to a series of software development projects, stepping in to support management and delivery of projects.
-#### Agile Coach (February’12 – June’12) – JP Morgan Chase, Kansas City, USA 
+#### Agile Coach (Feb ’12 – Jun '12) – JP Morgan Chase, Kansas City, USA 
 Lead a programme of Agile transformation.  Responsible for the coaching of four teams in the application of Agile, from project kick-off to final delivery.  This included coaching on the introduction and implementation of a TDD and CI strategy for development teams. Also responsible for restructuring the PMO function to work with Agile development teams.
 ### Fry-IT Ltd (Nov '11 – Feb '12)  
 Scrum Master:  Responsible for running all Agile aspects of software development for a team distributed across Europe.  
@@ -34,15 +34,15 @@ Contract renewed 3 times
 Scrum Master and Project Manager: Delivered a $30m project which represented a possible $500m annual turnover for the company.  Delivered against an aggressive timescale within a rigid 1 month window of opportunity for release in September 2010.
 Responsible for running 6 agile development teams, running Agile process meetings, daily stand-ups, scrum of scrums, sprint planning, showcases and retrospectives.  
 Day-to-day management of software development by 30 developers; reporting on project progress to senior management and planning releases of future work.  Development was in a Java environment using pair programming, TDD and CI all project management was done using JIRA.
-### Agile Lab (June ‘07 – December ‘09) Own Company
+### Agile Lab (Jun '07 – Dec '09) Own Company
 Agile Project Management Consultant: Developed training materials for Agile Project Management courses and coached new Agile teams.  Clients included:
 Lawton Communications Group:	 http://www.lawtoncommsgroup.com/
 I worked with the team at LCG to introduce a series of advanced agile practices, include the planning of future iterations in terms of previously measured velocity. 
 Nixon McInnes:	http://www.nixonmcinnes.co.uk/
 Worked to improve Agile methods through initial story extraction meetings; development iterations and successful re-negotiations of scope.
-### University of Sussex (February ‘05 - June ‘07)
+### University of Sussex (Feb '05 - Jun '07)
 Applications Researcher and Software Development Project Manager: Managed the delivery of working software on a strict timescale that was fit for purpose and ready to be deployed in private homes as part of a research study. 
-### Soda Creative (July ‘04 - February ‘05)
+### Soda Creative (Jul '04 - Feb '05)
 Project Manager: First encounter with Agile. Lead the project for an internet bank through the full development life cycle. Met challenging deadlines with deliveries of working software against a backdrop of frequently changing regulatory requirements. 
 ### University of Cambridge (Oct '02 - Jul '04) - UI Researcher
 ### Xerox Research Centre Europe (Mar '98 – Oct '02) - Researcher 
