@@ -24,9 +24,6 @@ Agile Coach and Scrum Master on an extremely high profile government project whi
 ### Tata Consulting Services (Feb ;12 – Dec '13)
 #### Senior Agile Consultant (Jul '12 –Dec '13) – Lloyds Bank, London
 Responsible for producing and executing an Agile coaching and transformation strategy.  Tailoring an Agile coaching approach to a series of software development projects, stepping in to support management and delivery of projects.
-Highlights included:
-●	Ensuring delivery of software to a key banking industry forum within a timescale mandated by banking regulatory authorities – the project won an internal project management innovation award.
-●	Using Agile methodologies to turn around a failing project which had become massively late and over-budget using traditional project management approaches.
 #### Agile Coach (February’12 – June’12) – JP Morgan Chase, Kansas City, USA 
 Lead a programme of Agile transformation.  Responsible for the coaching of four teams in the application of Agile, from project kick-off to final delivery.  This included coaching on the introduction and implementation of a TDD and CI strategy for development teams. Also responsible for restructuring the PMO function to work with Agile development teams.
 ### Fry-IT Ltd (Nov '11 – Feb '12)  
