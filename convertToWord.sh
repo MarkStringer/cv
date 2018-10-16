@@ -1,3 +1,4 @@
 #! /bin/bash
-pandoc CV.md -o CV.docx
+## pandoc --data-dir='~/projects/cv' --verbose CV.md -o CV.docx
+pandoc --reference-doc default.docx -o CV.docx CV.md
 
