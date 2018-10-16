@@ -18,7 +18,7 @@ Agile coaching, Certified Scrum Master, Kanban, Java software development, Test 
 
 # EMPLOYMENT
 
-## Mark Stringer Consulting Ltd - Home Office (Jan ‘18 - Present)
+## Mark Stringer Consulting Ltd - Home Office (Jan '18 - Present)
 Co-authored winning bid and then joined team as a scrum master working with a start-up on a greenfield development project .
 
 ## SopraSteria Ltd (Jan '14 – Dec '17)
@@ -91,18 +91,21 @@ Managed the delivery of working software on a strict timescale that was fit for 
 ### Project Manager: 
 First encounter with Agile. Lead the project for an internet bank through the full development life cycle. Met challenging deadlines with deliveries of working software against a backdrop of frequently changing regulatory requirements.
 
-## University of Cambridge (Oct '02 - Jul '04) - UI Researcher
+## University of Cambridge (Oct '02 - Jul '04) 
+UI Researcher
 
-## Xerox Research Centre Europe (Mar '98 – Oct '02) - Researcher
+## Xerox Research Centre Europe (Mar '98 – Oct '02) 
+Researcher
 
-## IBM (Oct '94 – March '98) - Software Developer
+## IBM (Oct '94 – Mar '98)
+Software Developer
 
 # EDUCATION/QUALIFICATIONS
 
 ## Academic
-* Diploma in German - Open University (‘98-‘00)
-* MSc in Cognitive Science – Birmingham University (‘92-‘93)
-* MA Hons Philosophy (2:1) – St Andrews (‘87-‘91)
+* Diploma in German - Open University ('98-'00)
+* MSc in Cognitive Science – Birmingham University ('92-'93)
+* MA Hons Philosophy (2:1) – St Andrews ('87-'91)
 
 ## Vocational
 * British Computer Society Agile Foundation Certificate
