@@ -19,17 +19,14 @@ Agile coaching, Certified Scrum Master, Kanban, Java software development, Test 
 # EMPLOYMENT
 
 ## Mark Stringer Consulting Ltd - Home Office (Jan '18 - Present)
-Co-authored winning bid and then joined team as a scrum master working with a start-up on a greenfield development project .
+Co-authored winning bid and then joined team as a scrum master working with a start-up on a greenfield development project. Project went live to deadline with agreed scope, July 2019.
 
 ## SopraSteria Ltd (Jan '14 – Dec '17)
 
-### Agile Coach - Yorkshire Water (Oct '17 - Dec '17)
-Coaching web development teams new to Agile in the use of Kanban and Scrum.
-
-### Agile Coach - Smith and Nephew (August '17 - Present)
+### Agile Coach - Smith and Nephew (August '17 - Dec '17)
 Coaching a team who are using innovative approaches to data warehousing on the cloud on User Story creation and Agile requirements management.
 
-### Agile Coach - JD Williams (July'17 – Present)
+### Agile Coach - JD Williams (July'17 – Dec '17)
 Coaching a group of mainframe developers, both onshore and offshore using both lean and Agile techniques. Improving communication, increasing visibility of work, improving flow of work between teams and vendors.
 
 ### Agile Coach/Scrum Master - giffgaff (Jan '16 to July '17)
@@ -114,9 +111,12 @@ Software Developer
 * UK Driving Licence
 
 ## Courses Attended
+* Liberating Structures
 * Certified SAFE Agilist (Leading Safe)
 * Coaching Tired Teams
 
 ## Interests
-Hobbies: Stand-up and improvised comedy. 
-Currently writing a book about project management and the unconscious entitled “Delivering the Impossible” - http://www.mumbly.co.uk/newblog/Book.htm
+Hobbies: 
+Automated testing in javascript.
+Open-mic stand-up comedy (50+ gigs in 2019). 
+Currently writing a book about project management entitled “Delivering the Impossible”.
