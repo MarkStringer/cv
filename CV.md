@@ -47,13 +47,28 @@ Mark Stringer Consulting Ltd - Home Office (Jan \'18 - Present)
 
 Co-authored winning bid and then joined team as a scrum master working
 with a start-up on a greenfield development project. Project went live
-to deadline with agreed scope, July 2019. Second bid for continued work
-won March 2020. The project was recently profiled in a Government
-Digital Service Blog.
+to deadline with agreed scope against a unmoveable deadline, July 2019.
+Second bid for continued work won March 2020. The project was recently
+profiled in a Government Digital Service Blog.
 
-[https://services.blog.gov.uk/2021/03/05/showing-the-rewards-of-user-centred-service-design-at-scale/]()
+https://services.blog.gov.uk/2021/03/05/showing-the-rewards-of-user-centred-service-design-at-scale/
 
 Technologies used: node.js, react, AWS.
+
+Mark Stringer Consulting Ltd - NHSX (Mar \'21 - Present)
+--------------------------------------------------------
+
+As part of the same successful team that delivered projects for the Home
+Office, we won a bid to conduct an initial phase of alpha and prototype
+development of a database of health standards.
+
+I set up all Agile ceremonies (standup, planning, retrospective, show
+and tell) and artifacts (planning boards, road maps).
+
+The project delivered in its short timescale of eight weeks.
+
+On the back of this work we have now won a follow-on bid to deliver a
+fully working system over the next 6 months.
 
 SopraSteria Ltd (Jan \'14 -- Dec \'17)
 --------------------------------------
@@ -216,11 +231,21 @@ Academic
 Vocational
 ----------
 
+-   ICAGILE Certified -- Agile Coaching
+
+<!-- -->
+
 -   British Computer Society Agile Foundation Certificate
+
+<!-- -->
 
 -   CSM (Certified Scrum Master)
 
+<!-- -->
+
 -   SCJP (Sun Certified Java Programmer)
+
+<!-- -->
 
 -   UK Driving Licence
 
@@ -229,12 +254,14 @@ Courses Recently Attended
 
 -   Liberating Structures
 
--   Certified SAFE Agilist (Leading Safe)
+<!-- -->
 
 -   Coaching Tired Teams
 
 Interests
 ---------
 
-Hobbies: Open-mic stand-up comedy (50+ gigs in 2019). Currently writing
-a book about project management entitled "Delivering the Impossible".
+Hobbies: Open-mic stand-up comedy (100+ gigs to 2021).
+
+Currently writing a book about project management entitled "Delivering
+the Impossible".
