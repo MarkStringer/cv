@@ -24,7 +24,7 @@ Agile Course Author and Trainer:
 
 ## EMPLOYMENT
 ### Author - Delivering the Impossible (July '23 - Present)
-- Writer and editor of "Delivering the Impossible"
+- Writer and editor of "Delivering the Impossible" https://leanpub.com/deliveringtheimpossible
 - Published the Alpha of the book on the LeanPub platform
 - Developed a book proposal which has been distributed to publishers
 
@@ -33,23 +33,24 @@ Agile Course Author and Trainer:
 - Marketed and performed this as an "unlisted show" at the Edinburgh Festival Fringer, August 2023
 - Shows booked at the Brighton Fringe, May 2024 and the Edinburgh Fringe, August 2024
 
-### Delivery Lead - Marvell Consulting (Jan '18 - July ’23)
+#### Delivery Lead - Marvell Consulting (Jan '18 - July ’23)
 - Responsible for all aspects of delivery implementation and strategy on 5 successful projects.
 - Clients include the UK Home Office, the National Health Service, the Greater London Authority, and the Welsh government.
 - Authored and pitched bids, facilitated high-level plans and estimates.
 
-### Home Office - Animals in Science Licensing - Marvell Consulting (Jan '18 - July ’23)
+#### Home Office - Animals in Science Licensing - Marvell Consulting (Jan '18 - July ’23)
 - Co-authored a winning bid and served as a Scrum Master for a greenfield development project.
 - Project delivered on time with agreed scope. Second bid won in March 2020.
 - Technologies used: node.js, react, AWS.
 
-### NHSX Interoperability Standards Directory - Marvell Consulting Ltd (Mar '21 - November '22)
+#### NHSX Interoperability Standards Directory - Marvell Consulting Ltd (Mar '21 - November '22)
 - Set up Agile ceremonies and artifacts for the project.
 - Project delivered in a short timeframe of eight weeks, leading to a follow-on bid win.
 
-### Stats Wales Discovery - Marvell Consulting Ltd (Mar '21 - December '23)
+#### Stats Wales Discovery - Marvell Consulting Ltd (Mar '21 - December '23)
 - Co-authored a winning bid and delivered a discovery phase investigation for the Welsh government.
 - Delivered a report with high-level plan and cost estimations for the replacement service.
+- December 2023 Marvell won the bid for the delivering of the Alpha and Beta phases of development.
 
 ### SopraSteria Ltd (Jan '14 – Dec '17)
 #### Agile Coach/Scrum Master - giffgaff (Jan '16 to July '17)
