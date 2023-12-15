@@ -5,12 +5,15 @@
 ## Agile Coach, Scrum Master, and Trainer
 
 ### SUMMARY
-Agile Delivery Coach and Lead:
+
+TL;DR - I deliver software projects. I use Agile to do it.
+
+#### Agile Delivery Coach and Lead:
 - Specialist in helping teams and organizations deliver projects.
 - Methodology-agnostic, utilizing Scrum, XP, Kanban, and SAFE principles.
 
-Agile Course Author and Trainer:
-- Conduct in-house and delegate training sessions on Agile project management.
+#### Agile Course Author and Trainer:
+- Conducts in-house and delegate training sessions on Agile project management.
 - Developed Agile Foundation Certificate course certified by the British Computer Society (BCS).
 - Emphasizes interactive training methods over traditional presentations.
 
