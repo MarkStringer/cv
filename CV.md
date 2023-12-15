@@ -23,6 +23,16 @@ Agile Course Author and Trainer:
 - SC security cleared (renewed April 2023)
 
 ## EMPLOYMENT
+### Author - Delivering the Impossible (July '23 - Present)
+- Writer and editor of "Delivering the Impossible"
+- Published the Alpha of the book on the LeanPub platform
+- Developed a book proposal which has been distributed to publishers
+
+### Author and presenter - Delivering the Impossible: A Short talk about how to rule the world (July '23 - Present)
+- Developed a "one-man show" presenting the ideas that are discussed in my book.
+- Marketed and performed this as an "unlisted show" at the Edinburgh Festival Fringer, August 2023
+- Shows booked at the Brighton Fringe, May 2024 and the Edinburgh Fringe, August 2024
+
 ### Delivery Lead - Marvell Consulting (Jan '18 - July ’23)
 - Responsible for all aspects of delivery implementation and strategy on 5 successful projects.
 - Clients include the UK Home Office, the National Health Service, the Greater London Authority, and the Welsh government.
@@ -69,23 +79,23 @@ Agile Course Author and Trainer:
 - Managed software development, reporting to senior management, and release planning.
 - Technologies used: Java.
 
-## Agile Lab (Jun '07 – Dec '09)
+### Agile Lab (Jun '07 – Dec '09)
 - Agile Project Management Consultant.
 - Developed training materials and coached new Agile teams.
 
-## University of Sussex (Feb '05 - Jun '07)
+### University of Sussex (Feb '05 - Jun '07)
 - Applications Researcher and Software Development Project Manager.
 
-## Soda Creative (Jul '04 - Feb '05)
+### Soda Creative (Jul '04 - Feb '05)
 - Project Manager, led an Agile project for an internet bank.
 
-## University of Cambridge (Oct '02 - Jul '04)
+### University of Cambridge (Oct '02 - Jul '04)
 - UI Researcher.
 
-## Xerox Research Centre Europe (Mar '98 – Oct '02)
+### Xerox Research Centre Europe (Mar '98 – Oct '02)
 - Researcher.
 
-## IBM (Oct '94 – Mar '98)
+### IBM (Oct '94 – Mar '98)
 - Software Developer.
 
 ## EDUCATION/QUALIFICATIONS
@@ -107,5 +117,4 @@ Agile Course Author and Trainer:
 
 ## Interests
 - Hobbies: Open-mic stand-up comedy (150+ gigs to 2023).
-- Currently writing a book about project management entitled [“Delivering the Impossible”](https://leanpub.com/deliveringtheimpossible)
 
