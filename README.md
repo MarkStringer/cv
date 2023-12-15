@@ -1,4 +1,3 @@
 # cv
-my most recent CV
+My most recent CV is [here](CV.md)
 
-I'm starting to keep the CV as just the .md - you can convert it to docx using the bash script.
